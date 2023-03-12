@@ -13,3 +13,13 @@
 [ 클라우드, 배포 ] - **AWS(EC2, RDS, S3, CodeDeploy, CloudFront, Route53), GitHub Actions, Docker**
 
 [ 그 외 ] - **Git, Notion**
+
+---
+
+### 배포된 프로젝트 보러가기
+
+[ 스마트 마을 알림 시스템 ] https://smarttownnotice.gq/
+
+[ Look at me ] https://lookatme.myprojectsite.shop/
+
+[ 게시판 서비스 ] https://myprojectsite.shop:8080/
