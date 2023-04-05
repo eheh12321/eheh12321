@@ -22,4 +22,4 @@
 
 [ Look at me ] https://lookatme.myprojectsite.shop/
 
-[ 게시판 서비스 ] https://myprojectsite.shop:8080/
+~~[ 게시판 서비스 ] https://myprojectsite.shop:8080/~~ (배포 중단)
